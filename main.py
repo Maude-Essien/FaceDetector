@@ -1,3 +1,11 @@
+#################################################################################
+# Index Number: 3609418                                                         #
+#                                                                               #
+# Programme: BSc. Industrial Engineering                                        #
+#                                                                               #
+#################################################################################
+
+
 # importing opencv-python to work with the video
 import cv2
 
